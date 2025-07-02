@@ -1,0 +1,5 @@
+ToyID,ToyName,Category,UnitsSold,ManufacturingCost,Revenue,Region
+101,Teddy Bear,Stuffed Toys,1500,5.5,12000,North
+102,RoboCar,Electronics,800,12.5,15000,East
+103,Building Blocks,Educational,1300,3.0,9000,South
+104,Doll House,Role Play,950,7.5,11000,West
